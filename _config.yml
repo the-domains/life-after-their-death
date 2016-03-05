@@ -1,0 +1,28 @@
+name: Life After Their Death
+favicon: null
+layout_spectrum: 0.45038821012713015
+typography_spectrum: 0.015043864026665688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7670883582904935
+  lightness: 0.7580802016891539
+  saturation: 0.4616892160847783
+  rhythmicContrast: 0.5846759916748852
+purpose: []
