@@ -1,7 +1,7 @@
 name: Life After Their Death
 favicon: null
-layout_spectrum: 0.45038821012713015
-typography_spectrum: 0.015043864026665688
+layout_spectrum: 1
+typography_spectrum: 0.25274
 cta:
   domain: null
   bucket: null
